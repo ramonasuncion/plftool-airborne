@@ -1,3 +1,0 @@
-[submodule "cramfs-tools"]
-	path = cramfs-tools
-	url = https://github.com/npitre/cramfs-tools
