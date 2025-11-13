@@ -1,0 +1,3 @@
+[submodule "binaryanalysis-ng"]
+	path = binaryanalysis-ng
+	url = https://github.com/armijnhemel/binaryanalysis-ng
