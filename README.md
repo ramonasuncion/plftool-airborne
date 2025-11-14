@@ -3,6 +3,8 @@
 > [!WARNING]
 > For educational and research purposes only. Follow all local laws.
 
+<img src="https://www.kindpng.com/picc/m/713-7130959_parrot-mini-drone-airborne-night-swat-transp-hd.png" alt="Parrot Mini Drone Airborne Night Swat Transp, HD Png Download@kindpng.com">
+
 ## Overview
 
 This document collects my finding about the Parrot **Airborne Night (SWAT)** firmware with the goal of enabling BNEP/IP networking and potentially running [Paparazzi](https://en.wikipedia.org/wiki/Paparazzi_Project) or other custom autopilot stacks.
